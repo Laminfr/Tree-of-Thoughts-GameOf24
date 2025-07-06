@@ -1,4 +1,7 @@
 langgraph
 langchain-openai
 langchain-google-vertexai
+langchain-community>=0.2.16
+langchain
+langchain-google-genai
 notebook
